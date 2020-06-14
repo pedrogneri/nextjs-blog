@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Oi! Meu nome é Pedro e este é o resultado do tutorial do next.js</p>
+        <p>React Developer intern at Dextra 👨‍💻 - Graduated in IT at ETEC João Belarmino 👨‍🎓 - IT Management student at Fatec Campinas 🏫</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
